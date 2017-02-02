@@ -1,8 +1,35 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+   background-image: url('../diamond-background.jpg');
+   padding-left: 50px;
+   padding-right: 50px;
 }
 
 a {
   color: #00B7FF;
+}
+.em-text-color{
+  color: #ffffff;
+  font-style: italic;
+
+}
+.blog-area{
+  background-color: #ffffff;
+  padding : 50px;
+  border-radius: 20px 20px 0px 0px;
+}
+.title-font {
+  color:orange;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: 40px;
+}
+.sub-title{
+  color:#5D6E6E;
+  font-style: italic;
+  font-weight: lighter;
+}
+.date{
+  color:orange;
 }
